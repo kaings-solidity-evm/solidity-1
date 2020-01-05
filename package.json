@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/kaings-solidity/solidity-1#readme",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.28",
     "ganache-cli": "^6.7.0",
     "mocha": "^6.2.2",
     "solc": "^0.4.25",
